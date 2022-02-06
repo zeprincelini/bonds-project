@@ -1,6 +1,6 @@
 [submodule "bonds-frontend"]
-	path = client
+	path = bonds-frontend
 	url = https://github.com/zeprincelini/bonds-frontend.git
 [submodule "bonds-backend"]
-	path = server
+	path = bonds-backend
 	url = https://github.com/zeprincelini/bonds-backend.git
